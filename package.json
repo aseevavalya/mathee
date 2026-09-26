@@ -1,0 +1,1 @@
+{"name":"mathe-atlas","version":"1.0.0","private":true,"scripts":{"dev":"node server.js","start":"node server.js","build":"node build.js"},"dependencies":{"katex":"^0.18.9"},"devDependencies":{"@playwright/test":"^1.63.0"}}
